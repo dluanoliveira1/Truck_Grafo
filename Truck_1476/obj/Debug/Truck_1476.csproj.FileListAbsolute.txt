@@ -1,0 +1,18 @@
+c:\users\sandra\documents\visual studio 2017\Projects\Project_Truck_1476\Truck_1476\bin\Debug\Truck_1476.exe.config
+c:\users\sandra\documents\visual studio 2017\Projects\Project_Truck_1476\Truck_1476\bin\Debug\Truck_1476.exe
+c:\users\sandra\documents\visual studio 2017\Projects\Project_Truck_1476\Truck_1476\bin\Debug\Truck_1476.pdb
+c:\users\sandra\documents\visual studio 2017\Projects\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.csprojResolveAssemblyReference.cache
+c:\users\sandra\documents\visual studio 2017\Projects\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.Properties.Resources.resources
+c:\users\sandra\documents\visual studio 2017\Projects\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.csproj.GenerateResource.Cache
+c:\users\sandra\documents\visual studio 2017\Projects\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.exe
+c:\users\sandra\documents\visual studio 2017\Projects\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.pdb
+c:\users\sandra\documents\visual studio 2017\Projects\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.Form1.resources
+C:\Users\Sandra\Desktop\Project_Truck_1476\Truck_1476\bin\Debug\Truck_1476.exe.config
+C:\Users\Sandra\Desktop\Project_Truck_1476\Truck_1476\bin\Debug\Truck_1476.exe
+C:\Users\Sandra\Desktop\Project_Truck_1476\Truck_1476\bin\Debug\Truck_1476.pdb
+C:\Users\Sandra\Desktop\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.csprojResolveAssemblyReference.cache
+C:\Users\Sandra\Desktop\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.Form1.resources
+C:\Users\Sandra\Desktop\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.Properties.Resources.resources
+C:\Users\Sandra\Desktop\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.csproj.GenerateResource.Cache
+C:\Users\Sandra\Desktop\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.exe
+C:\Users\Sandra\Desktop\Project_Truck_1476\Truck_1476\obj\Debug\Truck_1476.pdb
